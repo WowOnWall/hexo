@@ -1,7 +1,13 @@
 ---
 title: ASPack脱壳
 date: 2024-03-28 13:37:43
-tags: 壳
+tags: 
+  - 壳
+  - ASPack
+categories: 
+  - Reverse
+  - 脱壳
+description: 对于aspack的加壳，脱壳，和IAT重定位
 cover: https://raw.githubusercontent.com/WowOnWall/Drawing-bed/main/115668966_p0_master1200.jpg
 ---
 

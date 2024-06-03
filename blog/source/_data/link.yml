@@ -1,0 +1,23 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: bourbon1006
+      link: https://bourbon1006.github.io/
+      avatar: https://bourbon1006.github.io/yun.png
+      descr: 真実はいつもひとつ
+
+- class_name: 笔者页面
+  class_desc: 笔记与仓库
+  link_list:
+    - name: 语雀
+      link: https://www.yuque.com/zhao.ming.tai.zi
+      avatar: https://www.yuque.com/favicon.ico
+      descr: 笔记平台
+    - name: CSDN
+      link: https://blog.csdn.net/qq_41853048?type=blog
+      avatar: ../img/csdn.png
+      descr: 发布CTF的一些题解
+    - name: github
+      link: https://github.com/WowOnWall
+      avatar: https://github.com/favicon.ico
+      descr: 仓库存放区域

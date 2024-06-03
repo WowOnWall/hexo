@@ -4,16 +4,16 @@
 
 # Site
 title: wowonwall
-subtitle: '2333'
+subtitle: ''
 description: '候人兮猗，嗷呜~'
-keywords:  '111'
-author: WowOnWall
+keywords:  
+author: wowonwall
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://wowonwall.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -28,7 +28,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: README.md
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -107,3 +107,7 @@ deploy:
     type: git
     repo: https://github.com/WowOnWall/wowonwall.github.io.git
     branch: master
+
+# 自动生成sitemap
+sitemap:
+	path: sitemap.xml

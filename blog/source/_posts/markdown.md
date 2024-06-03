@@ -1,7 +1,11 @@
 ---
 title: markdown
 date: 2024-03-14 23:57:47
-tags: "语法"
+updated: 
+tags: markdown
+categories: 
+  - 语法
+cover: ../img/chi_tang.jpg
 ---
 
 ## 标题

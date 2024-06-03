@@ -1,5 +1,8 @@
 ---
 title: hello world
+date: 2023-08-29 00:29:31
+tags: 梦的开始
+cover: ../img/haimianbaobao.jpg
 ---
 
 蓬门今始为君开！
